@@ -13,6 +13,7 @@
 \TLV
    $reset = *reset;
    $aa = 1;
+   $cc = 2;
    //...
 
    // Assert these to end simulation (before Makerchip cycle limit).
